@@ -23,6 +23,17 @@
   } ]
 }, {
   "baseItem" : {
+    "id" : "__VLtYGaEEe2qz7HE-4ShKQ",
+    "version" : "0.1",
+    "type" : "job"
+  },
+  "relatedItems" : [ {
+    "id" : "_kc2Y0GZfEe2qz7HE-4ShKQ - Orders_A",
+    "version" : "Latest",
+    "type" : "schema"
+  } ]
+}, {
+  "baseItem" : {
     "id" : "_dAhD8GZ8Ee2qz7HE-4ShKQ",
     "version" : "0.1",
     "type" : "job"
